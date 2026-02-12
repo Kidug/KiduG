@@ -84,7 +84,7 @@ To bridge **technology, education, and community development** in order to creat
 ## 📫 Connect With Me
 
 - 📍 Ethiopia  
-- 📧 Email: your-email@example.com  
+- 📧 Email: kidughiwot3@gmail.com  
 - 🔗 LinkedIn: your-linkedin-profile  
 
 ---
