@@ -1,92 +1,156 @@
-# 👋 Hi, I'm Kidu Ghiwot
+# 👋 Hi, I'm Kidu Gebrehiwot Tadesse
 
-🎓 Lecturer | 📚 Career Development Trainer | 🌍 Youth Empowerment Advocate | 🤖 AI & Digital Innovation Enthusiast  
+🎓 Computer Science Lecturer | 📊 Information Management Specialist | 🌍 Humanitarian Data Professional | 🤖 AI & Digital Transformation Advocate  
 
----
-
-## 👨🏽‍🏫 About Me
-
-I am a university lecturer and project coordinator passionate about:
-
-- Empowering youth through networking and innovation  
-- Teaching Data Structures and Algorithms  
-- Designing employability and job search training programs  
-- Exploring localized AI solutions for post-conflict recovery  
-- Building sustainable academic and community initiatives  
-
-Currently working at **Mekelle University**, contributing to youth development, digital transformation, and academic excellence.
+📍 Mekelle, Tigray, Ethiopia  
+📧 kidughiwot3@gmail.com  
 
 ---
 
-## 🚀 Areas of Interest
+## 🧭 Professional Profile
 
-- Artificial Intelligence for Social Impact  
-- Data Structures & Algorithm Analysis  
-- Career Development & Employability Skills  
-- Youth Network Development  
-- Post-Conflict Digital Innovation  
-- Project Design & Implementation  
+I am a seasoned Computer Science professional with 15+ years of experience spanning academia, humanitarian data systems, digital transformation, and career development leadership.
+
+With an M.Sc. in Computer Science, I specialize in:
+
+- Designing and implementing data-driven solutions  
+- Information management in humanitarian settings  
+- Advanced data analytics and visualization  
+- Digital literacy and employability training  
+- Integrating AI and emerging technologies into development work  
+
+My work bridges **technology, education, and humanitarian response** to create sustainable impact.
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Professional Experience Highlights
 
-**Programming Languages**
+### 📊 Information Management & Humanitarian Data
+
+- Supervisor – Economic Establishment Census (Ethiopian Statistical Service, 2025–Present)
+- Supervisor – Tigray War Damages Assessment (Commission of Inquiry)
+- Supervisor – Rapid Humanitarian Assessment (UNHCR-funded project)
+- Data Collector & Analyst – Save the Children & USAID Project
+- Targeting & Registration Assistant – WFP Food Distribution
+- Vulnerability-Based Targeting Data Collector – JEOP (REST)
+
+Key competencies:
+- ODK, KoBoToolbox, CommCare
+- Data quality assurance & verification
+- Field team supervision & training
+- Evidence-based reporting
+- Ethical data collection & confidentiality management
+
+---
+
+### 🎓 Academic & Leadership Roles
+
+- Lecturer – Mekelle University, Adigrat University, Arba Minch University (2010–2024)
+- Assistant Director – Career Development Center (Mekelle University)
+- Coordinator – CS Postgraduate Program
+- Coordinator – Summer & Distance Education
+
+Core Contributions:
+- Teaching Data Structures, Algorithms, and Computer Science courses
+- Research supervision & academic mentorship
+- Career readiness training and employability programs
+- Partnership building with NGOs and employers
+
+---
+
+## 🤖 AI & Emerging Technology Integration
+
+Hands-on experience with:
+
+- ChatGPT
+- Azure OpenAI
+- Google Gemini
+- DeepSeek
+- GROK
+- Power BI
+- SPSS
+- Advanced Excel Analytics
+
+Focused on:
+- AI-assisted reporting
+- Data workflow automation
+- Generative AI for information management
+- AI for post-conflict recovery & development
+
+---
+
+## 🛠 Technical Skills
+
+### Programming & Systems
 - C++
 - Python
-- Java
+- Information Systems Design
+- Database Concepts
 
-**Web & Tools**
-- HTML & CSS
-- Git & GitHub
-- Microsoft Office & Academic Documentation
+### Data & Analytics
+- SPSS
+- Power BI
+- Excel (Advanced)
+- Quantitative & Qualitative Analysis
+- Data Visualization & Dashboard Design
 
-**Professional Skills**
-- Training & Facilitation  
-- Project Proposal Writing  
-- Monitoring & Evaluation  
-- Strategic Planning  
-- Workshop Design  
+### Field Data Systems
+- ODK
+- KoBoToolbox
+- CommCare
 
----
-
-## 📂 Featured Projects
-
-🔹 **Data Structures and Algorithms Notes**  
-Comprehensive teaching materials with examples and algorithm analysis.
-
-🔹 **Job Searching Skills Training Manual**  
-Structured training content for university graduate students.
-
-🔹 **Youth Networking Initiative (TIG066 Project)**  
-Strengthening youth centers and clubs through structured collaboration and leadership development.
-
-🔹 **AI for Post-Conflict Recovery (Concept Development)**  
-Exploring localized AI-driven solutions to address community rebuilding and digital inclusion.
+### Project & Operations
+- Microsoft Project
+- Asana
+- Monitoring & Evaluation Frameworks
+- Logframe & Theory of Change Development
 
 ---
 
-## 📊 Current Focus
+## 📚 Certifications & Training
 
-- Developing structured academic resources for students  
-- Expanding youth innovation networks  
-- Integrating AI into education and social development  
-- Building a digital portfolio of training and research outputs  
+- TOT in Digital Literacy Skills (Dereja.com, 2024)
+- Teaching Career Readiness – Brandeis University (USA)
+- TOT in Employability Skills – GIZ, Ethiojobs
+- TOT in Transferable Life Skills – Save the Children
+- Career/VGC Management & Counseling Certification
 
 ---
 
-## 🌍 Vision
+## 🌍 Areas of Interest
 
-To bridge **technology, education, and community development** in order to create sustainable impact for youth and academic institutions.
+- Humanitarian Information Systems
+- Data Governance & Ethics
+- AI for Development (AI4D)
+- Digital Transformation in Higher Education
+- Youth Employment & Workforce Development
+- Post-Conflict Data Systems Reconstruction
+
+---
+
+## 📂 Featured Portfolio Projects (In This GitHub)
+
+- 📊 Humanitarian Data Analysis Templates
+- 📘 Data Structures & Algorithm Teaching Materials
+- 🎓 Job Searching Skills Training Manual
+- 🤖 AI Applications for Development Concepts
+- 📈 Power BI Dashboard Samples
+- 📝 Monitoring & Evaluation Framework Examples
+
+---
+
+## 🎯 Professional Vision
+
+To lead innovative digital transformation initiatives that strengthen humanitarian response systems, academic institutions, and youth development ecosystems through data intelligence and emerging technologies.
 
 ---
 
 ## 📫 Connect With Me
 
-- 📍 Ethiopia  
-- 📧 Email: kidughiwot3@gmail.com  
-- 🔗 LinkedIn: your-linkedin-profile  
+📧 Email: kidughiwot3@gmail.com  
+📍 Location: Mekelle, Ethiopia  
+🌍 Open to collaboration in research, AI for development, and humanitarian data systems  
 
 ---
 
-⭐ *“Empowering youth through knowledge, innovation, and collaboration.”*
+⭐ “Leveraging Data, Education, and AI to Drive Sustainable Impact.”
