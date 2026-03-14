@@ -16,7 +16,7 @@ With an M.Sc. in Computer Science, I specialize in:
 - Designing and implementing data-driven solutions  
 - Information management in humanitarian settings  
 - Advanced data analytics and visualization  
-- Digital literacy and employability training  
+- Digital literacy, employability, and Life skills training  
 - Integrating AI and emerging technologies into development work  
 
 My work bridges **technology, education, and humanitarian response** to create sustainable impact.
